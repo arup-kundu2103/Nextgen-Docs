@@ -1,7 +1,7 @@
 document$.subscribe(() => {
     const instance = new Typewriter('#typewriter', {
         strings: [
-            'natural gas marketers', 
+            'Healthcare industry', 
             'producers',
             'distributors',
             'LDCs',
