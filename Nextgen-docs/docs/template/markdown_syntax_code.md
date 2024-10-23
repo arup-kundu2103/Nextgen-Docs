@@ -1,25 +1,117 @@
-# Access the Bed Board
+# Markdown Cheat Sheet
 
-Bed Board is a separate application that works with your single sign-on
-authentication (SSO).
+This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
 
-Bed Board is a separate application but requires access to . Before you can
-launch Bed Board, you must be in an active session. Within the Bed Board
-application, administrators can grant specific security groups access to
-various Bed Board functions from the Security Groups menu.
+## Basic Syntax
 
-The Bed Board application is designed using single sign-on authentication
-(SSO) so that users can seamlessly open the Bed Board without leaving . You
-can configure Bed Board to launch from a link on a packet, a tab, or a link
-using the BH Foundation Configuration system template. For more information,
-see [Configure a Packet Navigation](t_configure_a_navigation.html "You can
-configure landing pages for your practice and program.").
+These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
-  * **[Configure Bed Board to Open from a Packet](t_configure_the_bed_board_to_open_from_a_packet.html)**  
+### Heading
 
-  * **[Configure Bed Board to Open from a Tab or Link](t_configure_the_bed_board_to_open_from_a_tab_or_sub_navigation.html)**  
+# H1
+## H2
+### H3
 
-**Parent topic:** [Bed Board](c_bed_board.html "Bed Board enables agencies to
-track and manage bed assignments and provides key insights into each
-patient.")
+### Bold
 
+**bold text**
+
+### Italic
+
+*italicized text*
+
+### Blockquote
+
+> blockquote
+
+### Ordered List
+
+1. First item
+2. Second item
+3. Third item
+
+### Unordered List
+
+- First item
+- Second item
+- Third item
+
+### Code
+
+`code`
+
+### Horizontal Rule
+
+---
+
+### Link
+
+[Markdown Guide](https://www.markdownguide.org)
+
+### Image
+
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
+
+## Extended Syntax
+
+These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+
+### Table
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+### Fenced Code Block
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+### Footnote
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+### Heading ID
+
+### My Great Heading {#custom-id}
+
+### Definition List
+
+term
+: definition
+
+### Strikethrough
+
+~~The world is flat.~~
+
+### Task List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+### Emoji
+
+That is so funny! :joy:
+
+(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
+
+### Highlight
+
+I need to highlight these ==very important words==.
+
+### Subscript
+
+H~2~O
+
+### Superscript
+
+X^2^

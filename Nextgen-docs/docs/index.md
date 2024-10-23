@@ -1,13 +1,13 @@
 ---
 template: home.html
-title: Nextgen
+title: nGenue
 hide:
   - toc
   - navigation
   - feedback
 ---
 
-# What can you do with Nextgen?
+# What can you do with nGenue?
 
 <div class="grid cards wide" markdown>
 
@@ -23,7 +23,7 @@ hide:
 
     ---
 
-    Nextgen establishes a direct WebSocket connection with many exchanges, including DEXs on L1/L2 blockchain networks.
+    nGenue establishes a direct WebSocket connection with many exchanges, including DEXs on L1/L2 blockchain networks.
 
     [:octicons-arrow-right-24: Connector Docs]()
 
@@ -39,20 +39,20 @@ hide:
 
     ---
 
-    Certification equips you with skills as a Nextgen developer, empowering you to earn bounties and customize strategies for yourself and others.
+    Certification equips you with skills as a nGenue developer, empowering you to earn bounties and customize strategies for yourself and others.
 
     [:octicons-arrow-right-24: Get Certified]()
 
 </div>
 ---
 
-# Who uses Nextgen?
+# Who uses nGenue?
 
 ## :fontawesome-solid-arrows-turn-to-dots: Market Makers
 
 <div class="accent" markdown>
 
-### For many Healthcare firms, Nextgen is the trusted starting point for creating secure, scalable algo healthcare solutions.
+### For many crypto market making firms, nGenue is the trusted starting point for creating secure, scalable algo trading solutions.
 
 </div>
 
@@ -60,7 +60,7 @@ hide:
 
 <span class="quote">
 :material-format-quote-open:
-As the company that open-sourced Nextgen, we're incredibly proud of how the community has embraced it. Today, we run bespoke strategies for our institutional clients using many custom Nextgen instances.
+As the company that open-sourced nGenue, we're incredibly proud of how the community has embraced it. Today, we run bespoke strategies for our institutional clients using many custom nGenue instances.
 :material-format-quote-close:
 </span>
 <br/><br/><br/>
@@ -73,7 +73,7 @@ As the company that open-sourced Nextgen, we're incredibly proud of how the comm
 
 <span class="quote">
 :material-format-quote-open:
-We started with Nextgen as the foundation for our market-making business. Their WebSocket connector architecture is the most accessible in the market. We still use it from time to time and enjoy their great documentation.
+We started with nGenue as the foundation for our market-making business. Their WebSocket connector architecture is the most accessible in the market. We still use it from time to time and enjoy their great documentation.
 :material-format-quote-close:
 </span>
 <br/><br/><br/>
@@ -86,7 +86,7 @@ We started with Nextgen as the foundation for our market-making business. Their 
 
 <span class="quote">
 :material-format-quote-open:
-Nextgen has served as a reliable base for us to build custom tools and strategies. It has many quality connectors and all components are well thought out, allowing us to flexibly modify the open source code.
+nGenue has served as a reliable base for us to build custom tools and strategies. It has many quality connectors and all components are well thought out, allowing us to flexibly modify the open source code.
 :material-format-quote-close:
 </span>
 <br/><br/><br/>
@@ -105,7 +105,7 @@ Nextgen has served as a reliable base for us to build custom tools and strategie
 
 <div class="accent" markdown>
 
-### Algorithmic traders and boutique firms leverage Nextgen for capturing cross-chain + cross-exchange arbitrage opportunities with the [AMM Arbitrage strategy](https://miner.Nextgen.io) and earning liquidity mining rewards on [Nextgen Miner](https://miner.Nextgen.io).
+### Algorithmic traders and boutique firms leverage nGenue for capturing cross-chain + cross-exchange arbitrage opportunities with the [AMM Arbitrage strategy](https://miner.nGenue.io) and earning liquidity mining rewards on [nGenue Miner](https://miner.nGenue.io).
 
 </div>
 
@@ -113,7 +113,7 @@ Nextgen has served as a reliable base for us to build custom tools and strategie
 
 <span class="quote">
 :material-format-quote-open:
-Nextgen allowed me to launch a successful suite of trading strategies managing over $2 billion in trade volume. I can't recommend Nextgen enough for any algo trader seeking a 0 to 1 platform.
+nGenue allowed me to launch a successful suite of trading strategies managing over $2 billion in trade volume. I can't recommend nGenue enough for any algo trader seeking a 0 to 1 platform.
 :material-format-quote-close:
 </span>
 <br/><br/><br/>
@@ -124,7 +124,7 @@ Nextgen allowed me to launch a successful suite of trading strategies managing o
 
 <span class="quote">
 :material-format-quote-open:
-Since 2021, I've been a dedicated user of Nextgen, primarily utilizing the pure market making strategy. Based on my profitable strategies, I started an algo-trading startup in Saudi Arabia!
+Since 2021, I've been a dedicated user of nGenue, primarily utilizing the pure market making strategy. Based on my profitable strategies, I started an algo-trading startup in Saudi Arabia!
 :material-format-quote-close:
 </span>
 <br/><br/><br/>
@@ -135,7 +135,7 @@ Since 2021, I've been a dedicated user of Nextgen, primarily utilizing the pure 
 
 <span class="quote">
 :material-format-quote-open:
-Nextgen revolutionized my crypto trading. Using advanced strategies, I developed my own successful trading style and consistently ranked at the top of Nextgen Miner's leaderboard for months.
+nGenue revolutionized my crypto trading. Using advanced strategies, I developed my own successful trading style and consistently ranked at the top of nGenue Miner's leaderboard for months.
 :material-format-quote-close:
 </span>
 <br/><br/><br/>
@@ -151,10 +151,10 @@ Nextgen revolutionized my crypto trading. Using advanced strategies, I developed
 
 ---
 
-# Stay Ahead with the Nextgen newsletter
+# Stay Ahead with the nGenue newsletter
 
-### Published when each monthly release drops, our official newsletter has all the Nextgen news, upcoming events, and contributions from the global Nextgen community!
+### Published when each monthly release drops, our official newsletter has all the nGenue news, upcoming events, and contributions from the global nGenue community!
 
 <br />
 
-[:octicons-download-16: Get the Newsletter](https://Nextgen.substack.com/){ .md-button .md-button--primary }
+[:octicons-download-16: Get the Newsletter](https://nGenue.substack.com/){ .md-button .md-button--primary }

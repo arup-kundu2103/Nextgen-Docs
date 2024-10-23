@@ -1,7 +1,7 @@
-# Nextgen overview
+# nGenue overview
 
-It’s time for better. Better work-life balance, less documentation, data at your fingertips, and better clinical and financial outcomes. Built for your entire organization, our integrated solutions make life better for both patients and providers. 
+NGenue is an open source Python-based framework that helps you run trading strategies that automate the execution of orders and trades on various cryptocurrency exchanges and protocols. 
 
 ## Core Repos
 
-An award-winning EHR system from a partner you can count on 
+NGenue is an open source Python-based framework that helps you run trading strategies that automate the execution of orders and trades on various cryptocurrency exchanges and protocols. 
