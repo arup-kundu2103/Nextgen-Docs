@@ -2,11 +2,11 @@ document$.subscribe(() => {
     const instance = new Typewriter('#typewriter', {
         strings: [
             'Healthcare industry', 
-            'producers',
-            'distributors',
-            'LDCs',
-            'utilities',
-            'pipelines',
+            'Behavioral Health',
+            'Cardiology',
+            'Community Health (CHC/FQHC)',
+            'Ophthalmology',
+            'Podiatry',
         ],
         autoStart: true,
         loop: true,
