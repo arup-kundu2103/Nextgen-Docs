@@ -234,7 +234,7 @@ header[class="md-header md-header--shadow"], nav[class="md-tabs"] {
 .md-footer {
   margin-top: 1rem;
   border-top: 1px solid var(--pg-light-border);
-  background-color: linear-gradient(133.16deg, #c66e4e, #d6a461);
+  background: linear-gradient(133.16deg, #c66e4e, #d6a461);
 }
 
 /* Wide card grids */
