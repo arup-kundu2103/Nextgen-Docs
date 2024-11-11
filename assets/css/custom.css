@@ -421,3 +421,16 @@ header[class="md-header md-header--shadow"], nav[class="md-tabs"] {
        -webkit-backdrop-filter: none !important;
        backdrop-filter: none !important;
    }
+
+   .md-container::before {
+    content: '';
+    display: block;
+    width: 45vw;
+    height: 25vw;
+    background: linear-gradient(270deg,#9cdbd9 .12%,#518df6 100%);
+    border-radius: 100%;
+    filter: blur(250px);
+    opacity: .25;
+    position: fixed;
+    bottom: 0;
+}
