@@ -239,7 +239,23 @@ header[class="md-header md-header--shadow"], nav[class="md-tabs"] {
 }
 
 .md-footer-meta {
-  background-color: none !important;
+  background-color: white !important;
+}
+
+.md-copyright {
+  color: #001724;
+  font-size: .64rem;
+  margin: auto .6rem;
+  padding: .4rem 0;
+  width: 100%;
+}
+
+.md-copyright__highlight {
+  color: #001724;
+}
+
+html .md-footer-meta.md-typeset a {
+  color: #c66e4e;
 }
 
 /* Wide card grids */
