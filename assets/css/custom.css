@@ -243,7 +243,7 @@ header[class="md-header md-header--shadow"], nav[class="md-tabs"] {
 }
 
 .md-copyright {
-  color: #001724;
+  color: #001724 !important;
   font-size: .64rem;
   margin: auto .6rem;
   padding: .4rem 0;
@@ -251,11 +251,11 @@ header[class="md-header md-header--shadow"], nav[class="md-tabs"] {
 }
 
 .md-copyright__highlight {
-  color: #001724;
+  color: #001724 !important;
 }
 
 html .md-footer-meta.md-typeset a {
-  color: #c66e4e;
+  color: #c66e4e !important;
 }
 
 /* Wide card grids */
@@ -272,10 +272,10 @@ html .md-footer-meta.md-typeset a {
 
 /* Primary buttons */
 .md-main .md-button--primary {
-  color: #001724;
-  /* background-color: var(--hb-hero-color); */
+  color: #001724 !important;
+ background-color: transparent !important;
   /* background: linear-gradient(133.16deg, #c66e4e, #d6a461); */
-  border-color: 1px solid var(--pg-light-border);
+  border-color: 1px solid var(--pg-light-border) !important;
 }
 
 .md-typeset hr {
