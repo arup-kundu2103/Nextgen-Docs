@@ -258,6 +258,11 @@ html .md-footer-meta.md-typeset a {
   color: #c66e4e !important;
 }
 
+.md-footer-meta__inner {  
+  flex-wrap: nowrap !important;
+ 
+}
+
 /* Wide card grids */
 .md-typeset .grid.wide {
   grid-template-columns: repeat(2, 1fr);
