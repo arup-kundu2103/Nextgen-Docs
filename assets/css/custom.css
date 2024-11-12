@@ -280,7 +280,7 @@ html .md-footer-meta.md-typeset a {
   color: #001724 !important;
  background-color: transparent !important;
   /* background: linear-gradient(133.16deg, #c66e4e, #d6a461); */
-  border-color: 1px solid var(--pg-light-border) !important;
+  border-color:var(--pg-light-border) !important;
 }
 
 .md-typeset hr {
