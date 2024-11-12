@@ -234,8 +234,12 @@ header[class="md-header md-header--shadow"], nav[class="md-tabs"] {
 .md-footer {
   margin-top: 1rem;
   border-top: 1px solid var(--pg-light-border);
-  background: linear-gradient(133.16deg, #c66e4e, #d6a461);
+  /* background: linear-gradient(133.16deg, #c66e4e, #d6a461); */
   
+}
+
+.md-footer-meta {
+  background-color: none !important;
 }
 
 /* Wide card grids */
@@ -252,10 +256,10 @@ header[class="md-header md-header--shadow"], nav[class="md-tabs"] {
 
 /* Primary buttons */
 .md-main .md-button--primary {
-  color: var(--md-primary-fg-color);
+  color: #001724;
   /* background-color: var(--hb-hero-color); */
-  background: linear-gradient(133.16deg, #c66e4e, #d6a461);
-  border-color: transparent;
+  /* background: linear-gradient(133.16deg, #c66e4e, #d6a461); */
+  border-color: 1px solid var(--pg-light-border);
 }
 
 .md-typeset hr {
@@ -422,7 +426,7 @@ header[class="md-header md-header--shadow"], nav[class="md-tabs"] {
        backdrop-filter: none !important;
    }
 
-   .md-container::before {
+   /* .md-container::before {
     content: '';
     display: block;
     width: 45vw;
@@ -433,4 +437,4 @@ header[class="md-header md-header--shadow"], nav[class="md-tabs"] {
     opacity: .25;
     position: fixed;
     bottom: 0;
-}
+} */
